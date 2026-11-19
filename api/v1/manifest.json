@@ -1,0 +1,5 @@
+{
+  "schema": 1,
+  "catalog": { "url": "catalog/catalog-1.json", "sha256": "f5e98e5817bdd742e50d67c1455905a95b4a24394f07a8c059d5e3ce3a7e75a9" },
+  "packs": []
+}
