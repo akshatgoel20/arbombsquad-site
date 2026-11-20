@@ -1,5 +1,8 @@
 {
   "schema": 1,
-  "catalog": { "url": "catalog/catalog-1.json", "sha256": "f5e98e5817bdd742e50d67c1455905a95b4a24394f07a8c059d5e3ce3a7e75a9" },
+  "catalog": {
+    "url": "catalog/catalog-2.json",
+    "sha256": "6d2fcd463118f7bbda40b0938dd0c5d3638c7a4b7699d527a1eb75df9d5c56af"
+  },
   "packs": []
 }
